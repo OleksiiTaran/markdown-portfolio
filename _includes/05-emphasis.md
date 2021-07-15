@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can code **Python** a bit. Also learning *GitHub* now. And **GCP** training as well
